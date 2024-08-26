@@ -1,4 +1,6 @@
-Google's Cybersecurity Professional Certificate is a self-paced program that teaches students the skills and tools needed for entry-level cybersecurity roles. The program consists of eight courses that use a combination of videos, assessments, and hands-on labs, and are taught by cybersecurity experts. The curriculum was designed with input from industry leaders and top employers. 
+#Google's Cybersecurity Professional Certificate 
+
+A self-paced program that teaches students the skills and tools needed for entry-level cybersecurity roles. The program consists of eight courses that use a combination of videos, assessments, and hands-on labs, and are taught by cybersecurity experts. The curriculum was designed with input from industry leaders and top employers. 
 The program covers topics such as: 
 Programming for cybersecurity tasks 
 Security information and event management (SIEM) tools 
