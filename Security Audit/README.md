@@ -9,3 +9,23 @@ The manager of the IT department has decided that an internal IT audit needs to 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
+
+Scope: The scope of this audit is defined as the entire security program at Botium
+Toys. This includes their assets like employee equipment and devices, their internal
+network, and their systems. You will need to review the assets Botium Toys has and the
+controls and compliance practices they have in place.
+
+Goals: Assess existing assets and complete the controls and compliance checklist to
+determine which controls and compliance best practices need to be implemented
+to improve Botium Toys’ security posture. (NIST CSF-Identify) - Dedicate resources to identify assets to manage them
+
+Conducting a risk assessment of assets: Current assets include... equipment for in-office needs, employee equipment (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc., products available for retail sale on-site and online, warehouse, management of systems/software and services, internet access, internal network, data retention and storage, legacy system maintenance
+
+Furthermore, there is inadequate asset management. Not all proper controls are in place and may not be compliant with regulations and standards.
+
+Controls assessment: Looking at the risk assessment we can see that there are many potential risk with a risk score of 8 out of 10. Due to the lack of controls and adherence 
+
+Compliance Checklist: Please look at the checklist for the assessment. Compliance is very important as they are conducting business internationally as well as their online market. 
+
+Communicating Results: I was able to gather all of the information presented and come up with the solution that Botium Toys must have more structure in their cybersecurity framework and structure. If not done so and followed up with it will result in the IT department not being able to protect their assets, constantly interrupted business operations, and failure to facilitate worldwide online/market expansions. 
+
